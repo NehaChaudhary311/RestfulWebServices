@@ -1,5 +1,6 @@
-package com.firstapi.rest.webservices.restfulwebservices;
+package com.firstapi.rest.webservices.restfulwebservices.helloworld;
 
+import com.firstapi.rest.webservices.restfulwebservices.helloworld.HelloWorldBean;
 import org.springframework.web.bind.annotation.*;
 
 
